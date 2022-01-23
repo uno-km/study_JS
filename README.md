@@ -1,7 +1,7 @@
 # JavaScript를 공부
 study for JS
 
-2021.1월 이후부터 React JS 위주로 공부합니다.
+2022.1월 이후부터 React JS 위주로 공부합니다.
 
 실습한 내용 : https://uno-kim.tistory.com/category/%EB%A6%AC%EC%95%A1%ED%8A%B8%20%EA%B3%B5%EB%B6%80
 
